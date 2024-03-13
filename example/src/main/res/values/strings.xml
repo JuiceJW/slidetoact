@@ -21,4 +21,8 @@
     <string name="use_cloud_icon">Use Cloud icon</string>
     <string name="complete_custom_icon">Complete custom icon</string>
     <string name="bounce_on_start">Bounce on start</string>
+    <string name="loadable_slider">Loadable Slider</string>
+    <string name="reset_when_done">Reset when done</string>
+    <string name="complete_when_done">Complete when done</string>
+    <string name="loading">Loading…</string>
 </resources>

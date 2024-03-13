@@ -36,6 +36,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         findViewById(R.id.button_bump_vibration).setOnClickListener(this);
         findViewById(R.id.button_completed).setOnClickListener(this);
         findViewById(R.id.button_bounce).setOnClickListener(this);
+        findViewById(R.id.button_loadable_slider).setOnClickListener(this);
     }
 
     public boolean onCreateOptionsMenu(Menu menu) {

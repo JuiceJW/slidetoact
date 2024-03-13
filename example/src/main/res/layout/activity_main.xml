@@ -125,5 +125,11 @@
             android:layout_height="wrap_content"
             android:text="@string/bounce_on_start" />
 
+        <Button
+            android:id="@+id/button_loadable_slider"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/loadable_slider" />
+
     </LinearLayout>
 </ScrollView>

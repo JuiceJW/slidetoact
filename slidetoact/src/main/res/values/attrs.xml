@@ -19,6 +19,7 @@
         <attr name="bump_vibration" format="integer" />
         <attr name="slider_locked" format="boolean" />
         <attr name="slider_reversed" format="boolean" />
+        <attr name="slider_loadable" format="boolean" />
         <attr name="slider_icon" format="reference" />
         <attr name="slider_icon_color" format="color" />
         <attr name="rotate_icon" format="boolean" />
@@ -29,6 +30,7 @@
         <attr name="bounce_on_start" format="boolean" />
         <attr name="bounce_duration" format="integer" />
         <attr name="bounce_repeat" format="integer" />
+        <attr name="loading_icon" format="reference" />
     </declare-styleable>
     <declare-styleable name="SlideToActViewTheme">
         <attr name="slideToActViewStyle" format="reference" />
